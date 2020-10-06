@@ -642,7 +642,7 @@ section {
   }
 }
 
-form {
+forme {
   /* Uniquement centrer le formulaire sur la page */
   margin: auto;
   width: 400px;
@@ -695,6 +695,14 @@ textarea {
   border-radius: 10px;
   background-size: cover;
   width: 350px;
+}
+
+.new {
+  height: 70px;
+  width: 300px;
+  background-color: aquamarine;
+  margin: auto;
+  margin-top: 20px;
 }
 
 body {
